@@ -69,7 +69,7 @@
 <div align="center">
   <samp>
     <b>
-      Contate-me:
+     📱 Contacte me:
     </b>
   </samp>
   <br>
